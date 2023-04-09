@@ -1,0 +1,15 @@
+#Create dictionary
+vectors = {}
+
+# Add a vector to the dictionary with a key of 'vector1'
+vector1 = [1, 2, 3]
+vectors['vector1'] = vector1
+
+#Add another vector to dictionary, and the key for this will be "vector2"
+vector2 = [4, 5, 6]
+vectors['vector2'] = vector2
+
+# Print the dictionary of vectors
+print(vectors)
+
+
